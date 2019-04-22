@@ -1,0 +1,8 @@
+*{
+	margin: 0;
+}
+h2{
+	font-size: 18px;
+	padding-left: 8px;
+	border: 4px solid green;
+}
